@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Guitar Library [Cross-Framework UI Library]"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Jackson [High-Performance Json Library]"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Apache Batik [SVG Manipulation Library]"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
